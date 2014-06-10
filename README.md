@@ -1,0 +1,4 @@
+quaternion
+==========
+
+Haskell quaternion library
